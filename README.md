@@ -22,7 +22,5 @@ Para instalar o projeto, utilize o MS Visual Studio Code e siga os seguintes pas
 ### Pela linha de comando do terminal, digite:
 
 ```
-
 python -m venv .venv
-
 ```
