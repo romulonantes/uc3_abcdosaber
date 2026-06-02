@@ -5,3 +5,6 @@ from django.shortcuts import render
 def listar(request):
     return render(request, 'titulo/listarTitulos.html')
     
+def cadastrar(request):
+    return render(request, 'titulo/cadastroTitulos.html')
+    
